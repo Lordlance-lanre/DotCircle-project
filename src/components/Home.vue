@@ -18,23 +18,23 @@
 
 	<section class="pb-10">
 		<img src="../assets/image/play(1).svg" class="w-10 md:w-14 absolute ml-52 mt-[120px] md:ml-[590px] md:mt-[260px]" alt="">
-		<img src="../assets/image/image 2.png" class="w-[400px] mx-auto md:w-[900px] mt-20 rounded-lg pb-2" alt="">
+		<img src="../assets/image/image2.png" class="w-[400px] mx-auto md:w-[900px] mt-20 rounded-lg pb-2" alt="">
 	</section>
 
 	<section class="mt-10">
 		<img src="../assets/image/services.png" class="w-40 md:ml-32" alt="">
 
 		<div class="flex justify-center mt-24">
-			<img src="../assets/image/Component 1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
+			<img src="../assets/image/Component1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
 			<div class="-mt-20">
-				<img src="../assets/image/Component 1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
+				<img src="../assets/image/Component1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
 			</div>
 		</div>
 
 		<div class="flex justify-center mt-2">
-			<img src="../assets/image/Component 1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
+			<img src="../assets/image/Component1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
 			<div class="-mt-20">
-				<img src="../assets/image/Component 1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
+				<img src="../assets/image/Component1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
 			</div>
 		</div>
 	</section>
@@ -44,25 +44,25 @@
 		<div class="md:grid md:grid-cols-2 mt-10 pb-7">
 
 			<div class="bg-zinc-800 border-r border-slate-400 w-11/12 md:w-9/12 mx-auto px-3 md:px-9 md:ml-36 py-9 rounded-lg text-sm">
-				<img src="../assets/image/promotion 1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-7">
+				<img src="../assets/image/promotion1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-7">
 				<span class="text-lg font-bold">Great communication</span>
 				<p class="mt-4">We work closely with our clients to make that they are completely satisfied with the end result and that they understand what we have done for them</p>
 			</div>
 
 			<div class="bg-zinc-800 border-l border-slate-400 w-11/12 md:w-9/12 mx-auto px-3 md:px-9 md:ml-3 py-9 rounded-lg mt-5 md:mt-0 text-sm">
-				<img src="../assets/image/timing 1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-5">
+				<img src="../assets/image/timing1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-5">
 				<span class="text-lg font-bold">Timely Delivery</span>
 				<p class="mt-4">It is our duty at DotCircle to always provide our clients with timely and accurate deliveries. <br> We understand that time is valuable which is why we take great care in making sure that our deliveries are completed as quickly and as efficiently as possible.</p>
 			</div>
 
 			<div class="bg-zinc-800 border-r border-slate-400 w-11/12 md:w-9/12 mx-auto px-3 md:px-9 md:ml-36 py-9 rounded-lg mt-5 md:mt-6 text-sm">
-				<img src="../assets/image/group 1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-5">
+				<img src="../assets/image/group1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-5">
 				<span class="text-lg font-bold">Highly Experienced Team</span>
 				<p class="mt-4">Our team is comprised of experts in thier field, so you can be rest assured knowing  that we have the experts to deliver top-notch results everytime</p>
 			</div>
 
 			<div class="bg-zinc-800 border-l border-slate-400 w-11/12 md:w-9/12 mx-auto px-3 md:px-9 md:ml-3 py-9 rounded-lg mt-5 md:mt-6 text-sm">
-				<img src="../assets/image/handshake 1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-5">
+				<img src="../assets/image/handshake1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-5">
 				<span class="tracking-wider text-lg font-bold">Commitment</span>
 				<p class="mt-4">At DotCircle we care about our clients and go above and beyond to make sure they are happy with the final products. This is what makes us stand out from the rest</p>
 			</div>

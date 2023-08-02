@@ -12,7 +12,7 @@
 			</div>
 
 			<div class="flex justify-center md:justify-start md:ml-5">
-				<img src="../assets/image/Vector (17).png" alt="" class="mr-4 w-4 h-3">
+				<img src="../assets/image/Vector(17).png" alt="" class="mr-4 w-4 h-3">
 				<img src="../assets/image/Path.png" alt="" class="mr-4 w-4 h-3 ">
 				<img src="../assets/image/instagram.png" alt="" class="mr-4 w-3 h-3 ">
 			</div>
