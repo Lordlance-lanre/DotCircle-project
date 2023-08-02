@@ -1,7 +1,7 @@
 <template>
 <div>
 	<nav class="flex justify-between md:justify-around md:pt-3">
-		<img src="../../image/dotcircle2.png" class=" md:w-32 ml-4 md:ml-0" alt="">
+		<img src="../assets/dotcircle2.png" class=" md:w-32 ml-4 md:ml-0" alt="">
 
 		<button @click="handleTransition">
 			<img src="../../image/hamburger2.svg" class="w-16 mt-[-10px] md:hidden" alt="">
