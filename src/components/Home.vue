@@ -17,52 +17,52 @@
 	</section>
 
 	<section class="pb-10">
-		<img src="../../image/play(1).svg" class="w-10 md:w-14 absolute ml-52 mt-[120px] md:ml-[590px] md:mt-[260px]" alt="">
-		<img src="../../image/image 2.png" class="w-[400px] mx-auto md:w-[900px] mt-20 rounded-lg pb-2" alt="">
+		<img src="../assets/image/play(1).svg" class="w-10 md:w-14 absolute ml-52 mt-[120px] md:ml-[590px] md:mt-[260px]" alt="">
+		<img src="../assets/image/image 2.png" class="w-[400px] mx-auto md:w-[900px] mt-20 rounded-lg pb-2" alt="">
 	</section>
 
 	<section class="mt-10">
-		<img src="../../image/services.png" class="w-40 md:ml-32" alt="">
+		<img src="../assets/image/services.png" class="w-40 md:ml-32" alt="">
 
 		<div class="flex justify-center mt-24">
-			<img src="../../image/Component 1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
+			<img src="../assets/image/Component 1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
 			<div class="-mt-20">
-				<img src="../../image/Component 1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
+				<img src="../assets/image/Component 1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
 			</div>
 		</div>
 
 		<div class="flex justify-center mt-2">
-			<img src="../../image/Component 1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
+			<img src="../assets/image/Component 1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
 			<div class="-mt-20">
-				<img src="../../image/Component 1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
+				<img src="../assets/image/Component 1.png" class="w-52 md:w-[350px] mx-auto md:mx-0" alt="">
 			</div>
 		</div>
 	</section>
 
 	<section>
-		<img src="../../image/Frame1.png" class="w-44 md:ml-32 mt-20" alt="">
+		<img src="../assets/image/Frame1.png" class="w-44 md:ml-32 mt-20" alt="">
 		<div class="md:grid md:grid-cols-2 mt-10 pb-7">
 
 			<div class="bg-zinc-800 border-r border-slate-400 w-11/12 md:w-9/12 mx-auto px-3 md:px-9 md:ml-36 py-9 rounded-lg text-sm">
-				<img src="../../image/promotion 1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-7">
+				<img src="../assets/image/promotion 1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-7">
 				<span class="text-lg font-bold">Great communication</span>
 				<p class="mt-4">We work closely with our clients to make that they are completely satisfied with the end result and that they understand what we have done for them</p>
 			</div>
 
 			<div class="bg-zinc-800 border-l border-slate-400 w-11/12 md:w-9/12 mx-auto px-3 md:px-9 md:ml-3 py-9 rounded-lg mt-5 md:mt-0 text-sm">
-				<img src="../../image/timing 1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-5">
+				<img src="../assets/image/timing 1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-5">
 				<span class="text-lg font-bold">Timely Delivery</span>
 				<p class="mt-4">It is our duty at DotCircle to always provide our clients with timely and accurate deliveries. <br> We understand that time is valuable which is why we take great care in making sure that our deliveries are completed as quickly and as efficiently as possible.</p>
 			</div>
 
 			<div class="bg-zinc-800 border-r border-slate-400 w-11/12 md:w-9/12 mx-auto px-3 md:px-9 md:ml-36 py-9 rounded-lg mt-5 md:mt-6 text-sm">
-				<img src="../../image/group 1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-5">
+				<img src="../assets/image/group 1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-5">
 				<span class="text-lg font-bold">Highly Experienced Team</span>
 				<p class="mt-4">Our team is comprised of experts in thier field, so you can be rest assured knowing  that we have the experts to deliver top-notch results everytime</p>
 			</div>
 
 			<div class="bg-zinc-800 border-l border-slate-400 w-11/12 md:w-9/12 mx-auto px-3 md:px-9 md:ml-3 py-9 rounded-lg mt-5 md:mt-6 text-sm">
-				<img src="../../image/handshake 1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-5">
+				<img src="../assets/image/handshake 1.png" alt="" class="w-6 md:w-7 border-emerald-600 border mb-5">
 				<span class="tracking-wider text-lg font-bold">Commitment</span>
 				<p class="mt-4">At DotCircle we care about our clients and go above and beyond to make sure they are happy with the final products. This is what makes us stand out from the rest</p>
 			</div>
@@ -70,41 +70,41 @@
 	</section>
 
 	<section>
-		<img src="../../image/Frame1.png" class="w-44 md:ml-32 mt-20" alt="">
+		<img src="../assets/image/Frame1.png" class="w-44 md:ml-32 mt-20" alt="">
 		<div class="md:grid md:grid-cols-2 pb-1 md:ml-5">
 			<div class="bg-zinc-800 w-11/12 py-3 px-5 mx-3 mt-5 rounded-lg">
 				<p class="text-xs">Our experience with DotCircle labs was truly transformative. They listened, helping us frame our ideas. then brought in creativity, sensitivity, and professionalism in bucket loads. We fell on the same side, working with a common aim which athlon believed in. We are delighted with the branding and importantly so are our community of users.</p>
 				<div class="flex mt-3">
-					<img src="../../image/Ellipse.png" alt="" class="w-5">
+					<img src="../assets/image/Ellipse.png" alt="" class="w-5">
 					<span class="text-[8px] ml-3 mt-1">Prof. Claudius Etscourt, Glasgow Caledorian University</span>
-					<img src="../../image/quotes.png" alt="" class="w-14 ml-72 absolute mt-1 md:mt-0 md:ml-[470px]">
+					<img src="../assets/image/quotes.png" alt="" class="w-14 ml-72 absolute mt-1 md:mt-0 md:ml-[470px]">
 				</div>
 			</div>
 
 			<div class="bg-zinc-800 w-11/12 py-3 px-5 mx-3 mt-5 rounded-lg">
 				<p class="text-xs">Our experience with DotCircle labs was truly transformative. They listened, helping us frame our ideas. then brought in creativity, sensitivity, and professionalism in bucket loads. We fell on the same side, working with a common aim which athlon believed in. We are delighted with the branding and importantly so are our community of users.</p>
 				<div class="flex mt-3">
-					<img src="../../image/Ellipse.png" alt="" class="w-5">
+					<img src="../assets/image/Ellipse.png" alt="" class="w-5">
 					<span class="text-[8px] ml-3 mt-1">Prof. Claudius Etscourt, Glasgow Caledorian University</span>
-					<img src="../../image/quotes.png" alt="" class="w-14 ml-72 absolute mt-1 md:mt-0 md:ml-[470px]">
+					<img src="../assets/image/quotes.png" alt="" class="w-14 ml-72 absolute mt-1 md:mt-0 md:ml-[470px]">
 				</div>
 			</div>
 
 			<div class="bg-zinc-800 w-11/12 py-3 px-5 mx-3 mt-5 rounded-lg">
 				<p class="text-xs">Our experience with DotCircle labs was truly transformative. They listened, helping us frame our ideas. then brought in creativity, sensitivity, and professionalism in bucket loads. We fell on the same side, working with a common aim which athlon believed in. We are delighted with the branding and importantly so are our community of users.</p>
 				<div class="flex mt-3">
-					<img src="../../image/Ellipse.png" alt="" class="w-5">
+					<img src="../assets/image/Ellipse.png" alt="" class="w-5">
 					<span class="text-[8px] ml-3 mt-1">Prof. Claudius Etscourt, Glasgow Caledorian University</span>
-					<img src="../../image/quotes.png" alt="" class="w-14 ml-72 absolute mt-1 md:mt-0 md:ml-[470px]">
+					<img src="../assets/image/quotes.png" alt="" class="w-14 ml-72 absolute mt-1 md:mt-0 md:ml-[470px]">
 				</div>
 			</div>
 
 			<div class="bg-zinc-800 w-11/12 py-3 px-5 mx-3 mt-5 rounded-lg">
 				<p class="text-xs">Our experience with DotCircle labs was truly transformative. They listened, helping us frame our ideas. then brought in creativity, sensitivity, and professionalism in bucket loads. We fell on the same side, working with a common aim which athlon believed in. We are delighted with the branding and importantly so are our community of users.</p>
 				<div class="flex mt-3">
-					<img src="../../image/Ellipse.png" alt="" class="w-5">
+					<img src="../assets/image/Ellipse.png" alt="" class="w-5">
 					<span class="text-[8px] ml-3 mt-1">Prof. Claudius Etscourt, Glasgow Caledorian University</span>
-					<img src="../../image/quotes.png" alt="" class="w-14 ml-72 absolute mt-1 md:mt-0 md:ml-[470px]">
+					<img src="../assets/image/quotes.png" alt="" class="w-14 ml-72 absolute mt-1 md:mt-0 md:ml-[470px]">
 				</div>
 			</div>
 			
@@ -112,25 +112,25 @@
 	</section>
 
 	<section>
-		<img src="../../image/Frame1.png" class="w-44 md:ml-32 mt-20" alt="">
+		<img src="../assets/image/Frame1.png" class="w-44 md:ml-32 mt-20" alt="">
 
 		<div class="md:flex md:justify-center md:mx-auto">
 			<div class="mt-10">
-				<img src="../../image/Rectangle1.png" alt="" class="w-80 md:w-72 mx-auto rounded-sm md:mx-0 md:mr-7 mb-5">
+				<img src="../assets/image/Rectangle1.png" alt="" class="w-80 md:w-72 mx-auto rounded-sm md:mx-0 md:mr-7 mb-5">
 				<span class="ml-20 text-xs font-extralight md:ml-0">July,2023</span>
 				<p class="ml-20 md:ml-0 mt-2 font-bold md:text-lg">DotCircle lab secures a <br> $30m contract with Tesla <br> Inc.</p>
 				<p class="text-xs font-extralight ml-20 md:ml-0 mt-4">We take an innovative approach to problem solving, <br>this allows us to develop solutions that meet the <br> specific needs of the client and deliver the best <br> possible outcome in the most efficient manner.</p>
 			</div>
 
 			<div class="mt-10">
-				<img src="../../image/Rectangle2.png" alt="" class="w-80 md:w-72 mx-auto rounded-sm  md:mr-7 md:mx-0 mb-5">
+				<img src="../assets/image/Rectangle2.png" alt="" class="w-80 md:w-72 mx-auto rounded-sm  md:mr-7 md:mx-0 mb-5">
 				<span class="ml-20 text-xs font-extralight md:ml-0">July,2023</span>
 				<p class="ml-20 md:ml-0 mt-2 font-bold md:text-lg">DotCircle lab secures a <br> $30m contract with Tesla <br> Inc.</p>
 				<p class="text-xs font-extralight ml-20 md:ml-0 mt-4">We take an innovative approach to problem solving, <br>this allows us to develop solutions that meet the <br> specific needs of the client and deliver the best <br> possible outcome in the most efficient manner.</p>
 			</div>
 
 			<div class="mt-10">
-				<img src="../../image/Rectangle3.png" alt="" class="w-80  md:mr-7 md:w-72 mx-auto rounded-sm md:mx-0 mb-5">
+				<img src="../assets/image/Rectangle3.png" alt="" class="w-80  md:mr-7 md:w-72 mx-auto rounded-sm md:mx-0 mb-5">
 				<span class="ml-20 text-xs font-extralight md:ml-0">July,2023</span>
 				<p class="ml-20 md:ml-0 mt-2 font-bold md:text-lg">DotCircle lab secures a <br> $30m contract with Tesla <br> Inc.</p>
 				<p class="text-xs font-extralight ml-20 md:ml-0 mt-4">We take an innovative approach to problem solving, <br>this allows us to develop solutions that meet the <br> specific needs of the client and deliver the best <br> possible outcome in the most efficient manner.</p>

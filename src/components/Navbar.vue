@@ -4,7 +4,7 @@
 		<img src="../assets/dotcircle2.png" class=" md:w-32 ml-4 md:ml-0" alt="">
 
 		<button @click="handleTransition">
-			<img src="../../image/hamburger2.svg" class="w-16 mt-[-10px] md:hidden" alt="">
+			<img src="../assets/image/hamburger2.svg" class="w-16 mt-[-10px] md:hidden" alt="">
 		</button>
 		<ul  class="screen text-white hidden md:flex mt-2">
 			<li class="mr-6 hover:text-emerald-400 transition ease-in-out duration-500">Case Studies</li>
